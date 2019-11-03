@@ -1,4 +1,4 @@
-# Flutter UI Concept
+# Flutter YouTube Redesign Concept
 
 Made by Maadhav Sharma
 - [Subscribe to Code Decoders Youtube](http://bit.ly/CodeDecoders)
@@ -8,9 +8,9 @@ Made by Maadhav Sharma
 ## ScreenShots
 
 
-![ScreenShot](https://raw.githubusercontent.com/Maadhav/flutter-login-ui-concept/master/ScreenShots/preview.jpg)
+![ScreenShot](https://raw.githubusercontent.com/Maadhav/flutter-youtube-redesign/master/screenshots/screenshot1.jpg)
 
-- [Design Source Credit:](https://www.uplabs.com/hoangpts)
+- [Design Source Credit:](https://www.uplabs.com/sherms)
 ## 
 This project is a starting point for a Flutter application.
 
